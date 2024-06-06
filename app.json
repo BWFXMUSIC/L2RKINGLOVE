@@ -1,7 +1,7 @@
 {
     "name": "BWFMUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "repository": "https://github.com/RBWFMUSIC-RJ/BWFMUSIC-musicBot",
+    "repository": "https://github.com/BWFXMUSIC/L2RKINGLOVE",
     "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
     "keywords": ["pyrogram", "BWFMUSICmusicbot", "pytgcall"],
     "stack": "container",
