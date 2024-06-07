@@ -18,7 +18,7 @@ from BWFMUSIC.utils.channelplay import get_channeplayCB
 from BWFMUSIC.utils.database import is_video_allowed
 from BWFMUSIC.utils.decorators.language import languageCB
 from BWFMUSIC.utils.decorators.play import PlayWrapper
-from BWFMUSIC.utils.ashishmusic.rj import command
+from BWFMUSIC.utils.L2RMUSIC.rj import command
 from BWFMUSIC.utils.formatters import formats
 from BWFMUSIC.utils.inline.play import (livestream_markup,
                                           playlist_markup,
