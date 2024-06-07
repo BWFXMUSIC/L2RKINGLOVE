@@ -25,6 +25,14 @@ async def start(_, msg):
           InlineKeyboardButton("🔥 ᴏᴡɴᴇʀ 🔥", url="https://t.me/L2R_KING"),
         ],
         [
+          InlineKeyboardButton("👻ᴄᴏᴘʏʀɪɢʜᴛ👻", url=f"https://github.com/BWFTIME/BWFCOPYRIGHT"),
+          InlineKeyboardButton("︎[🔊ʙω͠ғᴍᴜsɪᴄ🔇]", url=f"https://github.com/BWFTIME/BWFMUSIC.git"),
+        ],
+        [
+          InlineKeyboardButton("♦️ ʙᴀɴᴀʟʟ 💨", url=f"https://github.com/BWFTIME/L2RBANALL"),
+          InlineKeyboardButton("💬 ᴄʜᴀᴛʙᴏᴛ 💬", url=f"https://github.com/BWFTIME/BWFCHATBOT"),
+        ],
+        [
           InlineKeyboardButton("💒ʙωғ sᴜᴘᴘᴏʀᴛ💒", url=f"https://t.me/BWF_MUSIC1"),
         ]
     ]
