@@ -6,7 +6,7 @@ from helper import get_command
 from BWFMUSIC import YouTube, app
 from BWFMUSIC.core.call import rj
 from BWFMUSIC.misc import db
-from BWFMUSIC.utils.L2RMUSIC.rj import command
+from BWFMUSIC.utils.ashishmusic.rj import command
 from BWFMUSIC.utils import AdminRightsCheck, seconds_to_min
 
 # Commands
