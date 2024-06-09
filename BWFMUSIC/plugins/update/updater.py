@@ -9,7 +9,7 @@ from config import UPSTREAM_REPO, UPSTREAM_BRANCH, GIT_TOKEN, OWNER_ID
 from BWFMUSIC import app
 
 if GIT_TOKEN:
-     UPSTREAM_REPO = 'https://github.com/RBWFMUSIC-RJ/BWFMUSIC-musicbot'
+     UPSTREAM_REPO = 'https://github.com/BWFTIME/BWFMUSIC'
 else:
      UPSTREAM_REPO = UPSTREAM_REPO
 
@@ -57,8 +57,8 @@ async def update_bot(_, message: Message):
     chat_id = message.chat.id
     msg = await message.reply_text("**🥀 𝐂𝐡𝐞𝐜𝐤𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ✨ ...**")
     update_avail = updater()
-    os.system("git config --global user.name 'RBWFMUSIC-RJ'")
-    os.system("git config --global user.email 'oyehoye14314@gmail.com'")
+    os.system("git config --global user.name 'BWFMUSIC-RJ'")
+    os.system("git config --global user.email 'kingashish0707@gmail.com'")
     # os.system("git config --global credential.helper store")
     # os.system("echo 'https://{GIT_NAME}:{GIT_TOKEN}@github.com' > ~/.git-credentials")
     if update_avail:
