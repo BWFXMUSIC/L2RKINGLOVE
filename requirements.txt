@@ -11,7 +11,7 @@ lyricsgenius
 motor
 numpy
 OpsAi
-git+https://github.com/BWFMUSIC/pytgcalls
+git+https://github.com/RRomeoRJ0143/pytgcalls
 psutil
 py-tgcalls==0.9.8
 ntgcalls==1.1.2
